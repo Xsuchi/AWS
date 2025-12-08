@@ -1,4 +1,4 @@
-![alt text](1_b6PXkHPT7LVETzLwrVQCUw.png)
+![alt text](img/1_b6PXkHPT7LVETzLwrVQCUw.png)
 
 # AWS IAM – Identity & Access Management (Scenario-Based Hands-On)
 
