@@ -46,10 +46,3 @@ Configuring access keys for users who want to use AWS CLI instead of console log
 Using CloudShell to run AWS CLI commands without installing anything locally.
 
 ---
-
-Each scenario includes:
-- Problem statement  
-- Step-by-step solution  
-- Screenshot evidence  
-- Relevant AWS policies  
-- Commands used  
