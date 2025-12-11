@@ -1,6 +1,6 @@
 # **AWS Storage & Backup – Real-World EC2/EBS/EFS Scenarios (Hands-On)**
 
-![alt text](diagram-export-11-12-2025-6_10_01-pm.png)
+![alt text](img/diagram-export-11-12-2025-6_10_01-pm.png)
 
 This project covers core AWS storage operations used daily in production environments.
 Each scenario focuses on high availability, backup strategies, cost optimization, and shared storage architecture.
